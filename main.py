@@ -5,7 +5,7 @@ Output: A Minimum spanning tree of the graph
 '''
 
 '''
-Data structure: Min Priority queue for edges (with an edge look like (start, end, cost))
+Data structure: Min Priority queue for edges (with an edge look like (cost, start, end))
 Pseudocode:
 1. Start the algorithm on any node S
 2. Mark S as visited
